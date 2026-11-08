@@ -1,7 +1,7 @@
-# 🔬 Repositorio de laboratorios
+# Laboratorios técnicos personales
 
 
-Espacio destinado para la realización, desarrollo y documentación de pruebas técnicas.
+Este es un espacio destinado únicamente para el desarrollo, investigación y documentación técnica de laboratorios prácticos. En estas quiero destacar las siguientes temáticas. 
 
 *  **Configuración | Diseño | Simulación de redes 📡**
 	* Active Directory,
@@ -11,38 +11,31 @@ Espacio destinado para la realización, desarrollo y documentación de pruebas t
 	
 * **Implementación de servicios en la nube ☁️**
 	* Azure.
-	* AWS.
+	* AWS.  
 	
 * **Testeo | Despliegue de software 💻**
 * **Distribución | Despliegue de Sistemas Operativos 🪟🐧**
 	* Despliegue,
-	* Actualizaciones.
-  
----
-## 🎯 Propósito del repositorio 
-El propósito del repositorio es recopilar y tener una colección de diversos laboratorios técnicos, enfocados en la configuración, montaje y simulación de entornos coporativos.
+	* Actualizaciones. 
 
----
-## 🚀 Objetivos
-*   **Investigación** de eventos en diversos entornos tecnológicos.
-*   **Implementación** de soluciones prácticas a problemas coporativos planteados en cada entorno de laboratorios.   
-*   **Documentación** de cada uno de los procesos y resultados de cada una de estas prácticas.
+## Objetivos.
+<div style = "text-align:justify;">
+    El objetivo general de este repositorio es recopilar proyectos de entornos de simulación controlados. Dichos entornos tienen un enfoque práctico y orientado a soluciones corporativas y empresariales. 
 
----
+## Objetivos específicos    
 
-## 📂 Índice de Laboratorios
+  - Investigar eventos de diversos entornos tecnológicos.
+  - Implementar soluciones prácticas a problemas corporativos planteados en cada uno de los laboratorios.
+  - Configurar diversos entornos corporativos para realizar testeos con diversas herramientas en Sistemas Operativos Windows 10/11 y Linux (Ubuntu).
+  - Documentar y cuantificar cada uno de los procesos y resultados obtenidos en los laboratorios. 
 
-A continuación se listan los laboratorios disponibles. Cada carpeta contiene su propio código fuente y documentación detallada (`README.md`):
 
-| Laboratorio | Descripción | Estado |
-| :--- | :--- | :---: |
-| 📁 [Lab 01 - Introducción](./Laboratorio-01/) | Primeros pasos y configuración del entorno. | ✅ Finalizado |
-| 📁 [Lab 02 - Próximamente](./Laboratorio-02/) | Descripción breve de lo que tratará la práctica. | ⏳ En progreso |
+## Índice 📋
 
----
+Cada uno de los laboratorios contiene su propia documentación, sus propios objetivos, demostraciones y evidencias, por lo que se tiene el siguiente detalle en forma de lista.
 
-## 💻 Tecnologías Globales Utilizadas
-*   **Editor de Texto:** Visual Studio Code 🖥️
-*   **Lenguajes/Herramientas:** [Ej: Python, Docker, Git, etc.]
-
+| Laboratorio | Descripción | Estatus |
+| :--- |:--- | :--: |
+| [1. Configuracion_de_sistema]() | Configuración de un entorno en Windows 11 | Completado |
+</div>
 
