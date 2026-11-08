@@ -36,6 +36,6 @@ Cada uno de los laboratorios contiene su propia documentación, sus propios obje
 
 | Laboratorio | Descripción | Estatus |
 | :--- |:--- | :--: |
-| [1. Configuracion_de_sistema]() | Configuración de un entorno en Windows 11 | Completado |
+| [1. Diagnostico_de_equipos](Diagnostico_de_equipos) | Configuración de un entorno en Windows 11 | Completado |
 </div>
 
