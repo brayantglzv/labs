@@ -1,4 +1,4 @@
-# Laboratorios técnicos personales
+# Laboratorios corporativos
 
 
 Este es un espacio destinado únicamente para el desarrollo, investigación y documentación técnica de laboratorios prácticos. En estas quiero destacar las siguientes temáticas. 
