@@ -7,10 +7,9 @@ Identificar por medio de las herramientas básicas y que incluye Windows por 'de
 
 Para el diagnóstico, se utilizo el Sistema Operativo Windows 11 bajo las siguientes especificaciones:
 * **Sistema Operativo:** Windows 11 Home. 
-* **Sistema Operativo:** Windows 11 Home.
-* **Sistema Operativo:** Windows 11 Home.
-* **Sistema Operativo:** Windows 11 Home.
-* **Sistema Operativo:** Windows 11 Home.
+* **Procesador:** .
+* **Memoria RAM:** .
+* **Memoria interna:** 
 
 ## Pruebas realizadas
 
